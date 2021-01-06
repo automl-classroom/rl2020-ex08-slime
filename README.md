@@ -1,2 +1,3 @@
-# Week 1: Introduction
-The exercises in this course will teach you how to implement important RL algorithms and how every part of the RL pipeline works. The goal of this first exercise is to set up teams and learn about git and the workflow for future exercises.
+# Week 8: Introduction
+This week will give you a chance to apply what you learned so far.
+You will teach a slime to play volleyball in whatever way you see fit.
